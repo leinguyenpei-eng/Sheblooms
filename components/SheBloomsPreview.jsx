@@ -17,7 +17,7 @@ const P = {
 };
 
 // ─── REPLACE WITH YOUR ACTUAL ETSY LISTING URL ───
-const ETSY_URL = "https://www.etsy.com/listing/YOUR_LISTING_ID";
+const ETSY_URL = "https://www.etsy.com/listing/4522944023/she-blooms-90-day-reset-journal";
 
 // ─── BOTANICAL SVGs ───────────────────────────────────────────────
 const BotanicalCorner = ({ color = P.dustRose, flip = false, size = 140, opacity = 1 }) => (

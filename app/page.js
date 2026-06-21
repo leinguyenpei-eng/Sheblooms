@@ -1,6 +1,6 @@
 "use client";
-import SheBloomsV3 from "../components/SheBloomsV3";
+import SheBloomsPreview from "../components/SheBloomsPreview";
 
 export default function Page() {
-  return <SheBloomsV3 />;
+  return <SheBloomsPreview />;
 }
